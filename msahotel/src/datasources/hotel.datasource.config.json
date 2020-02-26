@@ -1,0 +1,11 @@
+{
+  "name": "hotel",
+  "connector": "mongodb",
+  "url": "mongodb://localhost:27017",
+  "host": "Walters-MacBook-Pro.local",
+  "port": 2707,
+  "user": "",
+  "password": "",
+  "database": "",
+  "useNewUrlParser": true
+}
